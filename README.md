@@ -17,4 +17,4 @@ Switch between panels: _Alt + (arrow)Up/Down/Left/Right_
 ### Within a Panel
 Scroll: _Mouse Scroll_ or _prefix + PgUp_
 
-Text Selection(block level): Zoom in (_Alt + q_)then use global selection (_Shift + cusor_)
+Text Selection(block level): Zoom in (_Alt + q_)then use global selection (_Shift + cusor_) then Zoom out (_Alt + q_)
